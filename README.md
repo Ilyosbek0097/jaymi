@@ -1,2 +1,0 @@
-# jaymi
-Bank Tizimi
